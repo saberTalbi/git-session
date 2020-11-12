@@ -1,0 +1,6 @@
+Git init  initialize projetc
+Git add ==> add modification
+Git commit => save
+Git push => add histo to remote (git hub)
+Git pull => up date project
+Git merge => fision entre deux branch
