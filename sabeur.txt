@@ -1,14 +1,19 @@
 text sabeur 123
 <<<<<<< HEAD
+<<<<<<< HEAD
 aziz 
 fin
 aziz 
 =======
 
+=======
+!add text to sabeur !
+confirm ----
+>>>>>>> 477b8e353ce49757cdf31fff97ed81a83d63e02e
 new text
 fin firas
 bj
-
+----change confirmed --
 new text 
 fin
 
