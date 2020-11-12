@@ -1,4 +1,15 @@
 text sabeur 123
+<<<<<<< HEAD
 aziz 
 fin
 aziz 
+=======
+
+new text
+fin firas
+bj
+
+new text 
+fin
+
+>>>>>>> ef582a87739cd942f3a96e7e1e95fd488f21384a
